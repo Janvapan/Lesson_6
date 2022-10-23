@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+
+
+.container {
+	max-width: 810px;
+	margin: auto;
+}
+
+.main__title {
+	font-family: 'Lato';
+	font-style: normal;
+	font-weight: 900;
+	font-size: 46px;
+	line-height: 130%;
+	color: #1E212C;
+	margin-bottom: 104px;
+}
+
+.img {
+	margin-bottom: 60px;
+}
+
+.main__text {
+	font-family: 'Lato';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 150%;
+	color: #1E212C;
+	margin-bottom: 24px;
+}
+
+.text__firt {
+	font-family: 'Lato';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 160%;
+	color: #424551;
+	margin-bottom: 44px;
+}
+
+.text__first-one {
+	margin-bottom: 40px;
+}
+
+.text__second {
+	font-family: 'Lato';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 150%;
+	color: #1E212C;
+	margin-bottom: 48px;
+	padding: 0px 0px 0px 60px;
+}
+
+.text__third {
+	font-family: 'Lato';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 160%;
+	color: #424551;
+	margin-bottom: 24px;
+}
+
+.text__four {
+	font-family: 'Lato';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 160%;
+	color: #424551;
+	margin-bottom: 24px;
+}
+
+.text__five {
+	font-family: 'Lato';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 160%;
+	color: #424551;
+}
+
+
+.button {
+	text-align: center;
+	padding: 30px;
+}
+
+.body__button {
+	border-radius: 50%;
+	width: 60px;
+	border: #0837e2;
+	box-shadow: 3px 6px 3px #0837e2;
+}
+
+.circle {
+	height: 50px;
+	width: 50px;
+	border-radius: 50%;
+	opacity: 0.5;
+	border: 2px;
+	background-color: red;
+	margin: 0 auto;
+	margin-bottom: 20px;
+	border: 5px solid #0ae85b;
+}
+
+.circle p {
+	text-align: center;
+	padding-top: 13px;
+}
+
+.circle:hover {
+	background-color: rgb(21, 1, 1);
+	opacity: 0.2;
+}
+
+.two {
+	visibility: hidden;
+}
+
+.cube {
+	text-align: center;
+	height: 50px;
+	width: 50px;
+	background-color: red;
+	margin: 0 auto;
+	margin-bottom: 20px;
+	padding-top: 10px;
+	outline: solid #0ae85b;
+}
+
